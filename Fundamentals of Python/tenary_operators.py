@@ -6,7 +6,7 @@ def is_adult(age):
     else:
         return False
 
-# using the tenary operator
+# using the ternary operator
 def is_adult2(age):
     return True if age > 18 else False
 
